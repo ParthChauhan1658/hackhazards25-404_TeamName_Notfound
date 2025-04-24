@@ -14,8 +14,16 @@
 
 ## 🎯 Objective
 
-What problem does your project solve, and who does it serve?  
-Briefly describe the real-world use case and the value it provides.
+🎯 Problem Statement & Use Case
+This project addresses the growing need for automated surveillance systems capable of detecting gender-based threats and violent behavior in real-time. In public places like parks, campuses, transportation hubs, and office buildings, it is often difficult for security personnel to monitor all areas at once, especially in high-traffic zones.
+
+👥 Who It Serves
+This system is designed for:
+-Security agencies
+-Smart city planners
+-Campus safety departments
+-Organizations focused on women’s safety
+-Developers or researchers in AI for social impact
 
 ---
 
