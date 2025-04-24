@@ -47,7 +47,7 @@ Enhances public safety through AI-powered monitoring
 
 ### Team Members:  
 - Parth Chauhan ([GitHub](https://github.com/ParthChauhan1658) / [LinkedIn](www.linkedin.com/in/parth-chauhan-6bbb69295) / ML developer)  
-- Krishnendu Nair  
+- Krishnendu Nair ([GitHub](https://www.linkedin.com/in/krishnendu-nair235/) / [LinkedIn](https://github.com/KrishnenduNair) / ML developer)
 
 ### Your Approach:  
 - Why We Chose This Problem- 
@@ -76,14 +76,8 @@ Enhances public safety through AI-powered monitoring
 - APIs:
 - Hosting:
 
-### Sponsor Technologies Used (if any):
-- [ ] **Groq:** _How you used Groq_  
-- [ ] **Monad:** _Your blockchain implementation_  
-- [ ] **Fluvio:** _Real-time data handling_  
-- [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
-- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
-- [ ] **Stellar:** _Payments, identity, or token usage_
-*(Mark with ✅ if completed)*
+### Sponsor Technologies Used :
+- [✅] **Groq:** _How you used Groq_  
 ---
 
 ## ✨ Key Features
