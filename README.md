@@ -50,8 +50,10 @@ Enhances public safety through AI-powered monitoring
 - Krishnendu Nair  
 
 ### Your Approach:  
-- Why you chose this problem  
-- Key challenges you addressed  
+- Why We Chose This Problem
+  With the rise in safety concerns across public and semi-public spaces, especially involving gender-based harassment and violent behavior, we saw an urgent need for a proactive, AI-      powered surveillance solution. Traditional systems rely heavily on manual monitoring, which is both labor-intensive and prone to human error. Our goal was to augment security systems    with real-time detection and alerting to help protect vulnerable individuals—especially women—in crowded or isolated environments. 
+- Key challenges
+  
 - Any pivots, brainstorms, or breakthroughs during hacking  
 
 ---
