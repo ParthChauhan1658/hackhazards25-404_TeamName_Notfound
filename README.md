@@ -19,18 +19,31 @@ This project addresses the growing need for automated surveillance systems capab
 
 👥 Who It Serves
 This system is designed for:
--Security agencies
--Smart city planners
--Campus safety departments
--Organizations focused on women’s safety
--Developers or researchers in AI for social impact
+- Security agencies
+- Smart city planners
+- Campus safety departments
+- Organizations focused on women’s safety
+- Developers or researchers in AI for social impact
+
+🌍 Real-World Use Case
+By combining gender detection, proximity analysis, and violence recognition, this tool helps identify:
+- Situations where a woman is surrounded by multiple men (potential harassment risk)
+- Instances of physical violence or aggression
+- Events that should trigger real-time alerts and be summarized for security reports
+
+✅ Value It Provides
+Enhances public safety through AI-powered monitoring
+- Sends timely alerts via SMS for fast response
+- Provides natural-language incident summaries using Groq's LLM
+- Supports both offline video analysis and real-time insights
+- Reduces manual workload for security teams and improves situational awareness
 
 ---
 
 ## 🧠 Team & Approach
 
 ### Team Name:  
-`Your team name here`
+`404_TeamName_Notfound`
 
 ### Team Members:  
 - Name 1 (GitHub / LinkedIn / Role)  
