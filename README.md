@@ -46,10 +46,8 @@ Enhances public safety through AI-powered monitoring
 `404_TeamName_Notfound`
 
 ### Team Members:  
-- Name 1 (GitHub / LinkedIn / Role)  
-- Name 2  
-- Name 3  
-*(Add links if you want)*
+- Parth Chauhan ([GitHub](https://github.com/ParthChauhan1658) / [LinkedIn](www.linkedin.com/in/parth-chauhan-6bbb69295) / ML developer)  
+- Krishnendu Nair  
 
 ### Your Approach:  
 - Why you chose this problem  
