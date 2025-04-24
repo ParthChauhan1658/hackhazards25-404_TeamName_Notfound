@@ -2,16 +2,13 @@
 
 # 🚀 Project Title
 
-> A one-line tagline or mission statement for your project.
+> Smart Surveillance: Gender Classification and Aggression Detection Using AI.
 
 ---
 
 ## 📌 Problem Statement
-
-Select the problem statement number and title from the official list given in Participant Manual.
-
-**Example:**  
-**Problem Statement 7 – Transform the Future of Rural Commerce**
+ 
+**Problem Statement 1 – Weave AI magic with Groq**
 
 ---
 
