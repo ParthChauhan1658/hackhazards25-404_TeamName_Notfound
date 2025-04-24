@@ -50,11 +50,20 @@ Enhances public safety through AI-powered monitoring
 - Krishnendu Nair  
 
 ### Your Approach:  
-- Why We Chose This Problem
+- Why We Chose This Problem- 
   With the rise in safety concerns across public and semi-public spaces, especially involving gender-based harassment and violent behavior, we saw an urgent need for a proactive, AI-      powered surveillance solution. Traditional systems rely heavily on manual monitoring, which is both labor-intensive and prone to human error. Our goal was to augment security systems    with real-time detection and alerting to help protect vulnerable individuals—especially women—in crowded or isolated environments. 
-- Key challenges
+- Key challenges-
+  - Real-time gender detection: Classifying individuals as male or female using visual data under variable lighting, angles, and movement.
+  - Surrounding detection logic: Designing a spatial logic to detect when a woman is being encircled or outnumbered by men.
+  - Violence recognition: Incorporating a pre-trained model to recognize patterns of aggressive or violent behavior in video frames.
+  - Timely alerting: Ensuring alerts are triggered at the right time without false positives and sending SMS notifications via Twilio.
+  - Natural-language summaries: Generating clear, human-readable incident reports using LLMs (Groq in this case).
   
-- Any pivots, brainstorms, or breakthroughs during hacking  
+- Pivots, brainstorms, or breakthroughs during hacking
+  - Originally, the idea was just gender classification, but during brainstorming we realized that identifying potential threats based on social dynamics (like a lone woman being       surrounded) could add much more value.
+  - A major breakthrough came with the integration of a violence detection model, which allowed us to move beyond passive monitoring to actual risk detection.
+  - We debated using OpenAI/GPT, but discovered Groq’s LLM was faster for summarizing frame-level insights, which made it perfect for real-time or near-real-time use cases.
+  - Lastly, combining everything into a streamlit UI helped make the tool accessible for non-technical users—something we felt was essential for deployment in actual safety centers.
 
 ---
 
