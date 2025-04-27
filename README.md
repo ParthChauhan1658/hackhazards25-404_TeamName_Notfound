@@ -99,7 +99,7 @@ Highlight the most important features of your project:
 ## 📽️ Demo & Deliverables
 
 - **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
+- **Pitch Deck / PPT Link:** [PDF](https://github.com/ParthChauhan1658/hackhazards25-404_TeamName_Notfound/raw/main/Hackhazards_25.pdf) 
 
 ---
 
