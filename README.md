@@ -92,7 +92,7 @@ Highlight the most important features of your project:
 - ✅ User-Friendly Interface: Simple web-based dashboard built using Streamlit for video upload, processing, and viewing event summaries.
 - ✅ Automated Logging: Critical events (like violence detection) are logged automatically for record-keeping.
 
-[Demo Images](https://github.com/user-attachments/assets/6b422d10-e98e-476c-9c92-06a967d87fb1)
+[Demo Images](https://github.com/user-attachments/assets/1cf831dc-ae42-4fa8-9a8d-717c816de309)
 
 ---
 
