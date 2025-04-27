@@ -115,47 +115,45 @@ Highlight the most important features of your project:
 ## 🧪 How to Run the Project
 
 ### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
+- **Python 3.9+**
+- **Streamlit** for UI
+- **OpenCV** for video processing
+- **NumPy** for array and matrix operations
+- **Pytz** for timezone handling
+- **Python-dotenv** for environment variable management
+- **Twilio** for sending SMS alerts
+- **Roboflow** for AI gender detection model integration
+- **Groq** for summarizing detected events via LLM
 
 ### Local Setup:
 ```bash
 # Clone the repo
-git clone https://github.com/your-team/project-name
+git clone https://github.com/ParthChauhan1658/hackhazards25-404_TeamName_Notfound.git
 
-# Install dependencies
-cd project-name
-npm install
+# Navigate into the project directory
+cd hackhazards25-404_TeamName_Notfound
 
-# Start development server
-npm run dev
+# Create virtual environment (optional but recommended)
+python -m venv venv
+
+# Activate virtual environment
+# For Windows:
+venv\Scripts\activate
+# For Mac/Linux:
+source venv/bin/activate
+
+# Install Python dependencies
+pip install -r requirements.txt
+
+# Start the Streamlit development server
+streamlit run app.py
 ```
 
-Provide any backend/frontend split or environment setup notes here.
-
----
-
-## 🧬 Future Scope
-
-List improvements, extensions, or follow-up features:
-
-- 📈 More integrations  
-- 🛡️ Security enhancements  
-- 🌐 Localization / broader accessibility  
-
----
-
-## 📎 Resources / Credits
-
-- APIs or datasets used  
-- Open source libraries or tools referenced  
-- Acknowledgements  
 
 ---
 
 ## 🏁 Final Words
 
-Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
+Participating in Hackhazards 2.5 was an incredibly rewarding experience. Our team tackled the challenge of building an AI-powered surveillance system aimed at enhancing women's safety, integrating technologies like Roboflow for gender detection, Groq for intelligent summarization, and Twilio for real-time SMS alerts. Setting up real-time video processing, fine-tuning the detection models, and managing asynchronous operations were significant technical hurdles that pushed us to deepen our understanding of Python’s capabilities. Despite late-night debugging sessions and a few unexpected alerts during testing, the journey was filled with learning, collaboration, and memorable moments. Special thanks to the organizers for providing such a dynamic platform, and a huge shout-out to my team members for their relentless effort and innovation throughout the event.
 
 ---
