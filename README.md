@@ -70,24 +70,27 @@ Enhances public safety through AI-powered monitoring
 ## 🛠️ Tech Stack
 
 ### Core Technologies Used:
-- Frontend:
-- Backend:
-- Database:
-- APIs:
-- Hosting:
+- Frontend: Streamlit, OpenCV
+- Backend: Python, OpenCV, TensorFlow/Keras, Roboflow SDK, Groq API, Twilio API
+- Database: None
+- APIs: Roboflow API, Groq API, Twilio API
+- Hosting: Localhost, Streamlit Cloud, GitHub
 
 ### Sponsor Technologies Used :
-- [✅] **Groq:** _How you used Groq_  
+- [✅] **Groq:** _In this project, Groq's Large Language Model (LLM) is used to generate natural language summaries of surveillance events. After each frame is processed and individuals are detected using the Roboflow model, a prompt is dynamically created describing the number of males and females detected, and whether a woman appears to be surrounded. This prompt is then sent to Groq's API, which responds with a simple, human-readable summary suitable for a security report. These summaries help security teams quickly understand potential threats without needing to manually review every frame or raw detection data._  
 ---
 
 ## ✨ Key Features
 
 Highlight the most important features of your project:
 
-- ✅ Feature 1  
-- ✅ Feature 2  
-- ✅ Feature 3  
-- ✅ Feature 4  
+- ✅ Gender Classification: Detects and classifies individuals as male or female in each video frame using a Roboflow-trained model. 
+- ✅ Woman Surrounded Detection: Identifies if a woman is surrounded by multiple men within a proximity threshold and triggers real-time alerts via SMS.
+- ✅ Violence Detection: Uses a deep learning model (Keras/TensorFlow) to detect violent activities in video footage and logs critical alerts automatically. 
+- ✅ Real-time Alerts: Sends immediate SMS alerts for critical events using Twilio, ensuring quick response times.
+- ✅ Natural Language Summarization: Groq API is used to summarize surveillance events into clear, professional security reports.
+- ✅ User-Friendly Interface: Simple web-based dashboard built using Streamlit for video upload, processing, and viewing event summaries.
+- ✅ Automated Logging: Critical events (like violence detection) are logged automatically for record-keeping.
 
 Add images, GIFs, or screenshots if helpful!
 
